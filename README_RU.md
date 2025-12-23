@@ -16,6 +16,7 @@ g++ -o OnlineShop src/main.cpp -std=c++11
 
 # Запуск
 ./OnlineShop
+
 🏗️ Структура проекта
 text
 OnlineShop-CPP/
