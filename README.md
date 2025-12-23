@@ -1,5 +1,7 @@
 🛒 Console Online Shop System in C++
+
 A fully-featured console-based online shopping system implemented in C++ with Object-Oriented Programming principles. This educational project demonstrates practical application of OOP concepts in a real-world scenario.
+
 
 ✨ Features
 User Authentication - Secure login system
