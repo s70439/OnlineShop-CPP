@@ -14,13 +14,7 @@ A fully-featured console-based online shopping system implemented in C++ with Ob
 g++ -o OnlineShop src/main.cpp -std=c++11
 
 # Run
-./OnlineShop
-🏗️ Project Structure
-text
-OnlineShop-CPP/
-├── src/main.cpp     # Main program
-├── README.md        # Documentation
-└── .gitignore       # Git configuration
+
 🎓 Learning Journey
 This project represents my first substantial C++ application developed during programming coursework. It showcases the transition from theoretical OOP concepts to practical implementation.
 
