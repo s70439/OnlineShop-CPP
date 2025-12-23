@@ -15,6 +15,13 @@ g++ -o OnlineShop src/main.cpp -std=c++11
 
 # Run
 
+## 🔐 Default Credentials
+
+For testing purposes, use the following credentials:
+
+**Login:** `admin`  
+**Password:** `admin`
+
 🎓 Learning Journey
 This project represents my first substantial C++ application developed during programming coursework. It showcases the transition from theoretical OOP concepts to practical implementation.
 
