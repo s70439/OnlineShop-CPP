@@ -1,0 +1,4 @@
+﻿  Shop.cpp
+C:\Users\babak\OneDrive\Desktop\Документы\Программирование\Shop\Shop\Shop.cpp(92,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\babak\OneDrive\Desktop\Документы\Программирование\Shop\Shop\Shop.cpp(140,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Shop.vcxproj -> C:\Users\babak\OneDrive\Desktop\Документы\Программирование\Shop\x64\Debug\Shop.exe
